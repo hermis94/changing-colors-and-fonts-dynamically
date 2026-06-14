@@ -1,0 +1,13 @@
+:root {
+    --main-color: #3498db;
+    --main-font: sans-serif;
+}
+
+body {
+    font-family: var(--main-font);
+    transition: 0.3s;
+}
+
+h1 {
+    color: var(--main-color);
+}
